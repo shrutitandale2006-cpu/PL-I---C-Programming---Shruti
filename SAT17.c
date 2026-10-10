@@ -12,7 +12,7 @@ int main()
 
 int var1[5];
 
-float var2[5]:
+float var2[5];
 
 char var3[5];
 
@@ -44,13 +44,13 @@ printf("and address is %d",&var1[3]);
 
 printf("\nThe value of var1 of index 4 is %d ",var1[4]);
 
-printf("and address is %d\n\n",&var1[4]):
+printf("and address is %d\n\n",&var1[4]);
 
-var 2[0] = 1.1;
+var2[0] = 1.1;
 
-var 2 r2[1] = 2.2;
+var2[1] = 2.2;
 
-var 2 2[2] = 3.3;
+var2[2] = 3.3;
 
 var2[3] = 4.4;
 
@@ -60,7 +60,7 @@ printf("\n The value of var2 of index O is %f ",var2[0]);
 
 printf("and address is %d", &var2[0]);
 
-printf("\nThe value of var2 of index 1 is %f ",var2[1]):
+printf("\nThe value of var2 of index 1 is %f ",var2[1]);
 
 printf("and address is %d", &var2[1]);
 
@@ -78,13 +78,13 @@ printf("and address is %d\n\n",&var2[4]);
 
 var3[0] = 'A';
 
-var 3[1] = 'B':
+var3[1] = 'B';
 
-var 3 3[2] = 'C';
+var3[2] = 'C';
 
-var 31 3[3] = 'D';
+var3[3] = 'D';
 
-var 3[4] = 'E';
+var3[4] = 'E';
 
 printf("\nThe value of var3 of index O is %c ",var3[0]);
 
